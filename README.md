@@ -1,2 +1,1 @@
-# permission
-permission
+# Izin
